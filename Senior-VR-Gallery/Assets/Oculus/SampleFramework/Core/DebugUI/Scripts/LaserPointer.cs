@@ -67,6 +67,7 @@ public class LaserPointer : OVRCursor
         OVRManager.InputFocusLost += OnInputFocusLost;
     }
 
+
     public override void SetCursorStartDest(Vector3 start, Vector3 dest, Vector3 normal)
     {
         _startPoint = start;

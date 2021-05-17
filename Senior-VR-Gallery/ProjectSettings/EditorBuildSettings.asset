@@ -11,6 +11,36 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Zach_Millisor.unity
     guid: 314cb087ea1596d4ca5c047d42507784
+  - enabled: 1
+    path: Assets/Scenes/Hem_Katwal.unity
+    guid: ed3d7a52687984942a8ee981ef2f1539
+  - enabled: 1
+    path: Assets/Scenes/Cale_T.unity
+    guid: 89ec8357e2963e349baa454abb87536f
+  - enabled: 1
+    path: Assets/Scenes/Alexander_Smith.unity
+    guid: 855ce99f8cd9ed24590e57ab423d94fb
+  - enabled: 1
+    path: Assets/Scenes/KashKrown.unity
+    guid: 78861c4d402f1194088bfa1634a4d346
+  - enabled: 1
+    path: Assets/Scenes/Yomar.unity
+    guid: e43ca9d7ff82f69439b86210bc5ebddd
+  - enabled: 1
+    path: Assets/Scenes/Ryan_Rigden.unity
+    guid: 905a055ec22da1340b001ef7b3b2af90
+  - enabled: 1
+    path: Assets/Scenes/Erin_Stacey.unity
+    guid: 2a1397efb9e4fa049a749b70b443ebd3
+  - enabled: 1
+    path: Assets/Scenes/Sam_Heiligmann.unity
+    guid: 82b58b0eaae14894a9424bbc4d587fbf
+  - enabled: 1
+    path: Assets/Scenes/Trenton_Belcher.unity
+    guid: 3f87aeb94901c88488685b711a30b9b6
+  - enabled: 1
+    path: Assets/Scenes/Ibrahim_ABDI.unity
+    guid: 973d8feb4478a3c4f8893b9550f6830c
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 844eb77d32e281849a47eb730d7321ec, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 2173b9e315c65b3448767146204b7518, type: 2}

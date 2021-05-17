@@ -3681,7 +3681,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Ozul''s Roulette
+  m_text: 'Ozul''s Roulette:
 
 '
   m_isRightToLeft: 0
